@@ -1,7 +1,3 @@
 alert('Hello Boulder!'); 
-prompt('enter your name'); 
-"Rubina"
-var name= "Hello"+' ' + "Rubina"
-undefined
-alert(name); 
-undefined
+var value=" Hello" + ' '+ prompt("enter your name" , "Typer your name here.")
+alert(value); 
